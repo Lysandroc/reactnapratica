@@ -10,10 +10,11 @@ project/
   node_modules/
   package.json
   src/
-    components/
-    containers/
-    reducers/
     index.js
+    components/
+    actions/
+    reducers/
+    containers/
     
 ```
 
